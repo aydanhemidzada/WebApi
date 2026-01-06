@@ -7,6 +7,8 @@ using System;
 using System.Reflection;
 using System.Text;
 using WebApiConfigurationn.DAL.EFCore;
+using WebApiConfigurationn.DAL.Repositories.Abstract;
+using WebApiConfigurationn.DAL.Repositories.Concrete.EFCore;
 using WebApiConfigurationn.Entities.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -51,6 +53,7 @@ builder.Services.AddAuthentication(opt=>
         ClockSkew = TimeSpan.Zero
     };
 });
+builder.Services.AddScoped<ICategoryRepository, EfCategoryRepository>();
 
 var app = builder.Build();
 

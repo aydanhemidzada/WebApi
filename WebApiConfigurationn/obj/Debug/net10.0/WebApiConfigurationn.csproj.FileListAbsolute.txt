@@ -223,3 +223,4 @@ C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\obj\Debug\net10.0\WebApiConfigurationn.sourcelink.json
+C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -26,9 +27,9 @@ namespace WebApiConfigurationn.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllCategories()
+        public async Task<IActionResult> GetAllCategories(int page, int size)
         {
-            var category = await _categoryRepository.GetAllCategoryAsync();
+            var category = await _categoryRepository.GetAllPaginatedAsync(page, size, null);
             var result = _mapper.Map < List<GetCategoryDto>>(category);
 
             return StatusCode((int)HttpStatusCode.OK, result);
@@ -56,6 +57,7 @@ namespace WebApiConfigurationn.Controllers
 
 
         [HttpPut]
+        
         public async Task<IActionResult> UpdateCategory(Guid id, UpdateCategoryDTO dto)
         {
             Category validcategory = await _categoryRepository.Get(c => c.Id == id);
