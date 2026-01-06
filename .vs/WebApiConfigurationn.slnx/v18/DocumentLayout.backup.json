@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\repositories\\abstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\abstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\profiles\\productprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\productprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\auth\\tokenoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\auth\\tokenoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\authprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\profiles\\orderitemprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\orderitemprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\profiles\\categoryprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\categoryprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\validators\\orders\\updateorderdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\validators\\orderitems\\createorderitemdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\validators\\orderitems\\createorderitemdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\validators\\orderitems\\updateorderitemdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\profiles\\orderprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\orderprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\profiles\\productprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\profiles\\productprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,20 +167,12 @@
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\configuration\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\configuration\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\configuration\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\configuration\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\validators\\products\\updateproductdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -194,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,68 +218,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenOption.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T22:13:09.219Z"
+              "WhenOpened": "2026-01-06T06:47:41.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T21:39:07.096Z",
+              "WhenOpened": "2026-01-06T05:35:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Product.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:37:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:34:33.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:04:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:37:42.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwGYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T20:46:27.905Z"
+              "WhenOpened": "2025-12-22T19:34:58.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Program.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Category.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T12:38:23.246Z"
+              "WhenOpened": "2025-12-21T20:40:47.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T21:53:25.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\appsettings.json",
@@ -283,19 +334,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:34:58.901Z"
+              "WhenOpened": "2025-12-28T21:39:07.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Program.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:38:23.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\OrderItem.cs",
@@ -308,78 +371,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T21:42:18.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T21:17:46.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T11:44:35.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:00:32.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateOrderDTOValidators.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:23:43.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderItemProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T12:11:21.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Order.cs",
@@ -391,7 +382,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:53:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T20:46:27.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenOption.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T22:13:09.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:42:18.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:17:46.391Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:44:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:00:32.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateOrderDTOValidators.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:23:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItemProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:11:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CreateOrderItemDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\OrderItems\\CreateOrderItemDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\OrderItems\\CreateOrderItemDTOValidators.cs",
@@ -403,31 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Product.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T20:37:55.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Category.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T20:40:47.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "UpdateOrderItemDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\OrderItems\\UpdateOrderItemDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\OrderItems\\UpdateOrderItemDTOValidators.cs",
@@ -439,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "UpdateOrderDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\UpdateOrderDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Orders\\UpdateOrderDTOValidators.cs",
@@ -451,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CreateCategoryDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Categories\\CreateCategoryDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Categories\\CreateCategoryDTOValidators.cs",
@@ -463,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "UpdateCategoryDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Categories\\UpdateCategoryDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Categories\\UpdateCategoryDTOValidators.cs",
@@ -475,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "OrderProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\OrderProfiles.cs",
@@ -487,19 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T06:37:42.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "CreateProductDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Products\\CreateProductDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Products\\CreateProductDTOValidators.cs",
@@ -511,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "OrderItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\OrderItemsController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\OrderItemsController.cs",
@@ -523,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "UpdateOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\UpdateOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\UpdateOrderItemDTO.cs",
@@ -535,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\OrdersController.cs",
@@ -547,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "GetOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\GetOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\GetOrderItemDTO.cs",
@@ -559,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CreateOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\CreateOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\CreateOrderItemDTO.cs",
@@ -571,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "OrderConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\OrderConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\OrderConfigurations.cs",
@@ -583,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "OrderItemConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\OrderItemConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\OrderItemConfigurations.cs",
@@ -595,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "GetCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\GetCategoryDto.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\GetCategoryDto.cs",
@@ -607,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "CreateOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\CreateOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\CreateOrderDTO.cs",
@@ -619,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "GetOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\GetOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\GetOrderDTO.cs",
@@ -631,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "UpdateOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\UpdateOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\UpdateOrderDTO.cs",
@@ -643,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\CreateProductDTO.cs",
@@ -655,19 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwGEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T06:34:33.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "ProductConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\ProductConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\ProductConfigurations.cs",
@@ -679,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "CategoryConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\CategoryConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\CategoryConfigurations.cs",
@@ -691,19 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "GetProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T07:04:17.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "UpdateProductDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Products\\UpdateProductDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Products\\UpdateProductDTOValidators.cs",
@@ -715,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
@@ -727,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "UpdateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\UpdateCategoryDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\UpdateCategoryDTO.cs",
@@ -739,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\UpdateProductDTO.cs",
@@ -751,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Common\\BaseEntity.cs",

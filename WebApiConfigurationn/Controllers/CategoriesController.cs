@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using System.Net;
 using WebApiConfigurationn.DAL.EFCore;
+using WebApiConfigurationn.DAL.Repositories.Abstract;
 using WebApiConfigurationn.Entities;
 using WebApiConfigurationn.Entities.DTOs.Categories;
 
@@ -14,19 +15,22 @@ namespace WebApiConfigurationn.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly ApiDbContext _context;
+        private readonly ICategoryRepository _categoryRepository;
         IMapper _mapper;
 
-        public CategoriesController(ApiDbContext context, IMapper mapper)
+        public CategoriesController(IMapper mapper, ICategoryRepository categoryRepository)
         {
-            _context = context;
+
             _mapper = mapper;
+            _categoryRepository = categoryRepository;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllCategories()
         {
-            var result = await _context.Categories.ToListAsync();
+            var category = await _categoryRepository.GetAllCategoryAsync();
+            var result = _mapper.Map < List<GetCategoryDto>>(category);
+
             return StatusCode((int)HttpStatusCode.OK, result);
         }
         [HttpPost]
@@ -43,8 +47,9 @@ namespace WebApiConfigurationn.Controllers
 
             var category = _mapper.Map<Category>(dto);
 
-            await _context.Categories.AddAsync(category);
-            await _context.SaveChangesAsync();
+            await _categoryRepository.AddCategoryAsync(category);
+
+            await _categoryRepository.SaveAsync();
             return Ok();
 
         }
@@ -53,7 +58,7 @@ namespace WebApiConfigurationn.Controllers
         [HttpPut]
         public async Task<IActionResult> UpdateCategory(Guid id, UpdateCategoryDTO dto)
         {
-            Category validcategory = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            Category validcategory = await _categoryRepository.Get(c => c.Id == id);
             if (validcategory == null)
             {
                 return NotFound();
@@ -69,8 +74,8 @@ namespace WebApiConfigurationn.Controllers
             validcategory.Name = dto.Name;
             validcategory.Description = dto.Description;
             validcategory.CreatedAt = DateTime.UtcNow;
-            _context.Categories.Update(validcategory);
-            await _context.SaveChangesAsync();
+            _categoryRepository.UpdateCategory(validcategory);
+            await _categoryRepository.SaveAsync();
             return Ok();
 
         }
@@ -80,7 +85,7 @@ namespace WebApiConfigurationn.Controllers
         [HttpGet]
         public async Task<ActionResult<GetCategoryDto>> GetCategoryById(Guid id)
         {
-            Category category= await _context.Categories.FirstOrDefaultAsync(c=>c.Id == id);
+            Category category= await _categoryRepository.Get(c=>c.Id == id);
             if(category == null)
             {
                 return BadRequest(new
@@ -103,9 +108,9 @@ namespace WebApiConfigurationn.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteCategory(Guid id)
         {
-            Category deletecategory=await _context.Categories.FirstOrDefaultAsync(c=>c.Id==id); 
-            _context.Categories.Remove(deletecategory);
-            await _context.SaveChangesAsync();
+            Category deletecategory=await _categoryRepository.Get(c=>c.Id==id); 
+            _categoryRepository.DeleteCategory(deletecategory.Id);
+            await _categoryRepository.SaveAsync();
             return Ok();
         }
     }

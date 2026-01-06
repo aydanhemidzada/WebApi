@@ -10,6 +10,7 @@ namespace WebApiConfigurationn.Profiles
         {
             CreateMap<CreateProductDTO, Product>().ReverseMap();
             CreateMap<Product, UpdateProductDTO>().ReverseMap();
+            CreateMap< GetProductDTO, Product>().ReverseMap();
 
 
         }

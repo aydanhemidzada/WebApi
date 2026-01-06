@@ -23,12 +23,12 @@ namespace WebApiConfigurationn.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetAllProducts()
-        {
-            var result = await _context.Products.ToListAsync();
-            return StatusCode((int)HttpStatusCode.OK, result);
-        }
+        //[HttpGet]
+        //public async Task<IActionResult> GetAllProducts()
+        //{
+        //    var result = await _context.Products.ToListAsync();
+        //    return StatusCode((int)HttpStatusCode.OK, result);
+        //}
         [HttpPost]
         public async Task<IActionResult> CreateProduct(CreateProductDTO dto)
         {
@@ -107,6 +107,18 @@ namespace WebApiConfigurationn.Controllers
             _context.Products.Remove(deleteproduct);
             await _context.SaveChangesAsync();
             return Ok();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllProducts()
+        {
+            var product = await _context.Products.Include(p=>p.Category).Select(p => new GetProductDTO
+            {
+                Name = p.Name,
+                CategoryName = p.Category.Name
+            }).ToListAsync(); ;
+            var result = _mapper.Map<List<GetProductDTO>>(product);
+            return Ok(result);
         }
     }
 }
