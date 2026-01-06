@@ -53,7 +53,8 @@ builder.Services.AddAuthentication(opt=>
         ClockSkew = TimeSpan.Zero
     };
 });
-builder.Services.AddScoped<ICategoryRepository, EfCategoryRepository>();
+builder.Services.AddScoped<ICategoryRepository,EfCategoryRepository>();
+builder.Services.AddScoped<IProductRepository, EfProductRepository>();
 
 var app = builder.Build();
 

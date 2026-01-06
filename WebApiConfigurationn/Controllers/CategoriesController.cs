@@ -27,7 +27,7 @@ namespace WebApiConfigurationn.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllCategories(int page, int size)
+        public async Task<IActionResult> GetAllCategories(int page=1, int size=10)
         {
             var category = await _categoryRepository.GetAllPaginatedAsync(page, size, null);
             var result = _mapper.Map < List<GetCategoryDto>>(category);
@@ -48,7 +48,7 @@ namespace WebApiConfigurationn.Controllers
 
             var category = _mapper.Map<Category>(dto);
 
-            await _categoryRepository.AddCategoryAsync(category);
+            await _categoryRepository.AddAsync(category);
 
             await _categoryRepository.SaveAsync();
             return Ok();
@@ -76,7 +76,7 @@ namespace WebApiConfigurationn.Controllers
             validcategory.Name = dto.Name;
             validcategory.Description = dto.Description;
             validcategory.CreatedAt = DateTime.UtcNow;
-            _categoryRepository.UpdateCategory(validcategory);
+            _categoryRepository.Update(validcategory);
             await _categoryRepository.SaveAsync();
             return Ok();
 
@@ -105,13 +105,11 @@ namespace WebApiConfigurationn.Controllers
         }
 
 
-
-
         [HttpDelete]
         public async Task<IActionResult> DeleteCategory(Guid id)
         {
             Category deletecategory=await _categoryRepository.Get(c=>c.Id==id); 
-            _categoryRepository.DeleteCategory(deletecategory.Id);
+            _categoryRepository.Delete(deletecategory.Id);
             await _categoryRepository.SaveAsync();
             return Ok();
         }

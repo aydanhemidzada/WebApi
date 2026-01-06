@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\repositories\\abstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\abstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:05:52.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:04:53.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:04:33.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
