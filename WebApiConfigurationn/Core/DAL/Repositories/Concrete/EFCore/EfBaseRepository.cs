@@ -55,10 +55,6 @@ namespace WebApiConfigurationn.Core.DAL.Repositories.Concrete.EFCore
                 : query.Where(filter).Skip((page - 1) * size).Take(size).ToListAsync();
         }
 
-        public async Task SaveAsync()
-        {
-            await _context.SaveChangesAsync();
-        }
 
         public void Update(TEntity entity)
         {

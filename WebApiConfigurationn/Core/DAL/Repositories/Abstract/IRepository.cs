@@ -12,6 +12,6 @@ namespace WebApiConfigurationn.Core.DAL.Repositories.Abstract
         Task AddAsync(TEntity entity);
         void Update(TEntity entity);
         void Delete(Guid id);
-        Task SaveAsync();
+      
     }
 }

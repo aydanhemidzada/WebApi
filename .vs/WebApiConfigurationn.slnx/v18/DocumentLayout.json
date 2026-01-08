@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\core\\dal\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\core\\dal\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\core\\dal\\repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\core\\dal\\repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\concrete\\efcore\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\core\\dal\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\core\\dal\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\dal\\efcore\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\dal\\efcore\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\core\\dal\\repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|solutionrelative:webapiconfigurationn\\core\\dal\\repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8504E108-5A52-F670-EB0C-139B62C879C1}|WebApiConfigurationn\\WebApiConfigurationn.csproj|c:\\users\\aydan\\source\\repos\\webapiconfigurationn\\webapiconfigurationn\\entities\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,7 +230,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -235,6 +247,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\ConfigurationService.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\ConfigurationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:28:00.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:01:42.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EfProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfProductRepository.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfProductRepository.cs",
@@ -242,50 +279,11 @@
               "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T20:12:16.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T20:12:16.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T20:11:41.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T20:28:54.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:35:05.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "EfCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
@@ -293,43 +291,17 @@
               "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Concrete\\EFCore\\EfCategoryRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:47:41.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Program.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T12:38:23.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T06:47:41.67Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAG8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:34:58.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Core\\DAL\\Repositories\\Abstract\\IRepository.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Core\\DAL\\Repositories\\Abstract\\IRepository.cs",
               "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Core\\DAL\\Repositories\\Abstract\\IRepository.cs",
               "RelativeToolTip": "WebApiConfigurationn\\Core\\DAL\\Repositories\\Abstract\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T11:41:52.413Z"
             },
@@ -341,13 +313,87 @@
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Core\\DAL\\Repositories\\Concrete\\EFCore\\EfBaseRepository.cs",
               "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Core\\DAL\\Repositories\\Concrete\\EFCore\\EfBaseRepository.cs",
               "RelativeToolTip": "WebApiConfigurationn\\Core\\DAL\\Repositories\\Concrete\\EFCore\\EfBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T11:49:20.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Program.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Program.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:38:23.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:34:58.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:02:33.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:35:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:28:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "WebApiConfigurationn\\DAL\\Repositories\\Abstract\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T20:11:41.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\EFCore\\ApiDbContext.cs",
@@ -359,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\ProductProfiles.cs",
@@ -371,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "GetProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\GetProductDTO.cs",
@@ -383,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\ProductsController.cs",
@@ -395,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Product.cs",
@@ -407,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Category.cs",
@@ -419,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\appsettings.json",
@@ -431,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\Auth\\AuthController.cs",
@@ -443,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\OrderItem.cs",
@@ -455,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Order.cs",
@@ -467,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "AuthProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\AuthProfiles.cs",
@@ -479,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\AppUser.cs",
@@ -491,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "TokenOption.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Auth\\TokenOption.cs",
@@ -503,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\RegisterDTO.cs",
@@ -515,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Auth\\LoginDTO.cs",
@@ -527,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "CategoryProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\CategoryProfiles.cs",
@@ -539,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CreateOrderDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Orders\\CreateOrderDTOValidators.cs",
@@ -551,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "OrderItemProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\OrderItemProfiles.cs",
@@ -563,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CreateOrderItemDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\OrderItems\\CreateOrderItemDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\OrderItems\\CreateOrderItemDTOValidators.cs",
@@ -575,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "UpdateOrderItemDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\OrderItems\\UpdateOrderItemDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\OrderItems\\UpdateOrderItemDTOValidators.cs",
@@ -587,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "UpdateOrderDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Orders\\UpdateOrderDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Orders\\UpdateOrderDTOValidators.cs",
@@ -599,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "CreateCategoryDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Categories\\CreateCategoryDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Categories\\CreateCategoryDTOValidators.cs",
@@ -611,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "UpdateCategoryDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Categories\\UpdateCategoryDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Categories\\UpdateCategoryDTOValidators.cs",
@@ -623,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "OrderProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Profiles\\OrderProfiles.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Profiles\\OrderProfiles.cs",
@@ -635,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "CreateProductDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Products\\CreateProductDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Products\\CreateProductDTOValidators.cs",
@@ -647,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "OrderItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\OrderItemsController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\OrderItemsController.cs",
@@ -659,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "UpdateOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\UpdateOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\UpdateOrderItemDTO.cs",
@@ -671,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Controllers\\OrdersController.cs",
@@ -683,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "GetOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\GetOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\GetOrderItemDTO.cs",
@@ -695,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "CreateOrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\CreateOrderItemDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\OrderItems\\CreateOrderItemDTO.cs",
@@ -707,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "OrderConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\OrderConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\OrderConfigurations.cs",
@@ -719,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "OrderItemConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\OrderItemConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\OrderItemConfigurations.cs",
@@ -731,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "GetCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\GetCategoryDto.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\GetCategoryDto.cs",
@@ -743,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "CreateOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\CreateOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\CreateOrderDTO.cs",
@@ -755,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "GetOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\GetOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\GetOrderDTO.cs",
@@ -767,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "UpdateOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Orders\\UpdateOrderDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Orders\\UpdateOrderDTO.cs",
@@ -779,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\CreateProductDTO.cs",
@@ -791,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "ProductConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\ProductConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\ProductConfigurations.cs",
@@ -803,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "CategoryConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\DAL\\Configuration\\CategoryConfigurations.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\DAL\\Configuration\\CategoryConfigurations.cs",
@@ -815,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "UpdateProductDTOValidators.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Validators\\Products\\UpdateProductDTOValidators.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Validators\\Products\\UpdateProductDTOValidators.cs",
@@ -827,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "UpdateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Categories\\UpdateCategoryDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Categories\\UpdateCategoryDTO.cs",
@@ -839,7 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\DTOs\\Products\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\DTOs\\Products\\UpdateProductDTO.cs",
@@ -851,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Aydan\\source\\repos\\WebApiConfigurationn\\WebApiConfigurationn\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "WebApiConfigurationn\\Entities\\Common\\BaseEntity.cs",
