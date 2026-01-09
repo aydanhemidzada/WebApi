@@ -28,9 +28,10 @@ namespace WebApiConfigurationn.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles ="User")]
         public async Task<IActionResult> GetAllCategories(int page=1, int size=10)
         {
-            var category = await _unitOfWork.CategoryRepository.GetAllPaginatedAsync(page, size, null);
+            var category = await _unitOfWork.CategoryRepository.GetAllPaginatedAsync(page, size);
             var result = _mapper.Map < List<GetCategoryDto>>(category);
 
             return StatusCode((int)HttpStatusCode.OK, result);

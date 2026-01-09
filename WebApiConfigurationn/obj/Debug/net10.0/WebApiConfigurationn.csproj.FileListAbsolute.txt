@@ -63,7 +63,6 @@ C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Humanizer.dll
-C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\Aydan\source\repos\WebApiConfigurationn\WebApiConfigurationn\bin\Debug\net10.0\Microsoft.Build.dll

@@ -22,7 +22,7 @@ namespace WebApiConfigurationn
 
 
          
-            services.AddOpenApi();
+            
             services.AddSwaggerGen();
             services.AddEndpointsApiExplorer();
             services.AddIdentity<AppUser<Guid>, IdentityRole>()

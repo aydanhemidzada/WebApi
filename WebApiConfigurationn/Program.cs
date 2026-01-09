@@ -1,20 +1,39 @@
-using FluentValidation.AspNetCore;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Reflection;
-using System.Text;
+using Microsoft.OpenApi.Models;
+
 using WebApiConfigurationn;
-using WebApiConfigurationn.DAL.EFCore;
-using WebApiConfigurationn.DAL.Repositories.Abstract;
-using WebApiConfigurationn.DAL.Repositories.Concrete.EFCore;
-using WebApiConfigurationn.DAL.UnitOfWork.Abstract;
-using WebApiConfigurationn.DAL.UnitOfWork.Concrete;
-using WebApiConfigurationn.Entities.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddSwaggerGen(option =>
+{
+    option.SwaggerDoc("v1", new OpenApiInfo { Title = "Demo API", Version = "v1" });
+    option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        In = ParameterLocation.Header,
+        Description = "Please enter a valid token",
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey,
+        BearerFormat = "JWT",
+        Scheme = "Bearer"
+    });
+    option.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type=ReferenceType.SecurityScheme,
+                    Id="Bearer"
+                }
+            },
+            new string[]{}
+        }
+    });
+});
+
+
 
 builder.Services.AddControllers();
 builder.Services.AddConfigurationService(builder.Configuration);
